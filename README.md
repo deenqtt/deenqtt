@@ -1,37 +1,55 @@
-# Hi, I’m @deenqtt 👋
+# Hi, I’m Deden Hidayat (@deenqtt) 👋
 
-I'm an **IoT Developer** passionate about building complete, end-to-end solutions—from the bare metal all the way to the user interface. I specialize in bridging the gap between hardware and software, crafting robust firmware, efficient middleware, and responsive web applications.
+## 🚦 IoT Software & Middleware Engineer
 
----
-
-### 🛠️ What I Do
-
-* **👀 I’m interested in:** Building scalable IoT ecosystems, embedded systems, real-time data processing, and creating seamless user experiences.
-* **🌱 I’m currently learning:** Deeper optimizations for edge computing and exploring new protocols for low-power devices.
-* **💞️ I’m looking to collaborate on:** Challenging open-source IoT projects, full-stack applications that interact with hardware, or innovative firmware solutions.
+Passionate about connecting the physical and digital worlds. I design and build scalable IoT backends, device drivers, and modern web interfaces—turning raw sensor data into real, actionable insights.
 
 ---
 
-### 🚀 My Tech Stack
+### 🛠️ What Drives Me
 
-Here are the primary tools and technologies I work with:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Firmware & Embedded** | `C` `C++` |
-| **Middleware & Backend** | `Python` `C# (.NET)` |
-| **Frontend & Web** | `React` `Vue.js` `TypeScript` `JavaScript` |
+- **Solving real-world problems** with code and hardware
+- **Bridging gaps** between embedded systems, cloud, and user experience
+- **Continuous learning**—from low-level C/C++ to cutting-edge web tech
 
 ---
 
-### 📫 Get In Touch
+### 💡 My Tech Stack
 
-* **Email:** `dedenh842@gmail.com`
-* **LinkedIn:** `https://www.linkedin.com/in/deden-hidayat-a0b08524a/`
+| Area         | Tools & Technologies                  |
+| ------------ | ------------------------------------- |
+| **Embedded** | C, C++                                |
+| **Backend**  | Python, MQTT, REST API, Linux, Docker |
+| **Frontend** | React, Next.js, Vue, Tailwind CSS     |
 
 ---
 
-### ✨ About Me
+### 🚀 What I Build
 
-* **😄 Pronouns:** He/Him
-* **⚡ Fun fact:** I believe the best "Hello, World!" isn't on a screen—it's making an LED blink from a web app on the other side of the world.
+- Industrial IoT middleware & device integration
+- Protocol bridges & real-time data pipelines
+- Responsive dashboards for monitoring & control
+- End-to-end solutions: device → cloud → user
+
+---
+
+### 🌱 Always Growing
+
+- Exploring edge computing & low-power protocols
+- Optimizing for reliability, scalability, and speed
+- Open to collaboration on IoT, backend, and full-stack projects
+
+---
+
+### 📫 Connect With Me
+
+- **Email:** dedenh842@gmail.com
+- **LinkedIn:** [Deden Hidayat](https://www.linkedin.com/in/deden-hidayat-a0b08524a/)
+
+---
+
+### ✨ Fun Facts
+
+- **Pronouns:** He/Him
+- **Philosophy:** The best "Hello, World!" is an LED blinking from a web app, anywhere in the world.
+- **Motto:** Code it. Connect it. Make it real.
